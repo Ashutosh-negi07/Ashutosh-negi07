@@ -105,7 +105,7 @@ A platform for discovering causes, managing goals and coordinating volunteer mem
 
 <br>
 
-<a href="[https://github.com/Ashutosh-778/GooDDeeD](https://github.com/Ashutosh-negi07/GooDDeeD)">
+<a href="https://github.com/Ashutosh-negi07/GooDDeeD">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -134,7 +134,7 @@ A role-based complaint management platform covering the complete lifecycle from 
 
 <br>
 
-<a href="[https://github.com/Ashutosh-778/HostelFixIT](https://github.com/Ashutosh-negi07/HostelFixIT)">
+<a href="https://github.com/Ashutosh-negi07/HostelFixIT">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -164,7 +164,7 @@ End-to-end ML application for predicting loan default risk using the German Cred
 
 <br>
 
-<a href="[https://github.com/Ashutosh-778/ML_Credit_Eval](https://github.com/Ashutosh-negi07/ML_Credit_Eval)">
+<a href="https://github.com/Ashutosh-negi07/ML_Credit_Eval">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -204,17 +204,19 @@ Cloud · DevOps · Performance Engineering**
 
 ---
 
+---
+
 # 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-778&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-negi07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-778&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Ashutosh-negi07&hide_border=true" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-778&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-negi07&layout=compact&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
@@ -224,10 +226,11 @@ Cloud · DevOps · Performance Engineering**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-778&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-negi07&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
+---
 ---
 
 # 🧠 CURRENT FOCUS
