@@ -105,7 +105,7 @@ A platform for discovering causes, managing goals and coordinating volunteer mem
 
 <br>
 
-<a href="https://github.com/Ashutosh-778/GooDDeeD">
+<a href="[https://github.com/Ashutosh-778/GooDDeeD](https://github.com/Ashutosh-negi07/GooDDeeD)">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -134,7 +134,7 @@ A role-based complaint management platform covering the complete lifecycle from 
 
 <br>
 
-<a href="https://github.com/Ashutosh-778/HostelFixIT">
+<a href="[https://github.com/Ashutosh-778/HostelFixIT](https://github.com/Ashutosh-negi07/HostelFixIT)">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -164,7 +164,7 @@ End-to-end ML application for predicting loan default risk using the German Cred
 
 <br>
 
-<a href="https://github.com/Ashutosh-778/ML_Credit_Eval">
+<a href="[https://github.com/Ashutosh-778/ML_Credit_Eval](https://github.com/Ashutosh-negi07/ML_Credit_Eval)">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
