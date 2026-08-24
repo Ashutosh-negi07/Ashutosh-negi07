@@ -169,37 +169,35 @@ End-to-end ML application for predicting loan default risk using the German Cred
 
 <td width="50%">
 
-## 🔭 WHAT I'M BUILDING TOWARDS
+## 🍽️ Plato
 
-### Backend Engineering
+**Multi-Tenant Restaurant Management & QR Ordering Backend**
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-Spring Security
-  ↓
-JPA / Hibernate
-  ↓
-PostgreSQL
-  ↓
-Docker + CI/CD
-```
+A production-ready REST API backend for a multi-tenant restaurant platform. Restaurant owners and staff manage restaurants, menus, tables and employees, while customers interact through QR-based table sessions.
 
-Building stronger foundations in:
+### `Java 21` `Spring Boot` `Spring Security` `PostgreSQL`
 
-**System Design · Distributed Systems ·
-Cloud · DevOps · Performance Engineering**
+* 🏢 Multi-tenant restaurant architecture
+* 🔐 JWT authentication & role-based access control
+* 👥 Owner, employee & super-admin roles
+* 📱 Cryptographically secure QR table tokens
+* 🗄️ JPA / Hibernate & PostgreSQL
+* 🔄 Flyway database migrations
+* 📚 OpenAPI / Swagger documentation
+* ⚡ WebSocket foundation for real-time updates
+
+**Auth · Users · Restaurants · Tables · Employees implemented**
+
+<br>
+
+<a href="https://github.com/Ashutosh-negi07/Plato">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 </tr>
 </table>
-
----
 
 ---
 
@@ -228,13 +226,32 @@ Cloud · DevOps · Performance Engineering**
 </div>
 
 ---
----
 
 # 🧠 CURRENT FOCUS
 
 <div align="center">
 
 ### `JAVA` → `SPRING BOOT` → `SECURITY` → `DATABASES` → `SYSTEM DESIGN`
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Spring Security
+  ↓
+JPA / Hibernate
+  ↓
+PostgreSQL
+  ↓
+Docker + CI/CD
+```
+
+Building stronger foundations in:
+
+**System Design · Distributed Systems · Cloud · DevOps · Performance Engineering**
 
 <br>
 
@@ -261,6 +278,7 @@ Cloud · DevOps · Performance Engineering**
 # 🤝 LET'S CONNECT
 
 <div align="center">
+
 
 <a href="https://www.linkedin.com/in/ashutosh-sn">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
