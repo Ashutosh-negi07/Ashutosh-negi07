@@ -217,15 +217,6 @@ A production-ready REST API backend for a multi-tenant restaurant platform. Rest
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh-negi07&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 # 🧠 CURRENT FOCUS
 
