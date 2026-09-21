@@ -36,44 +36,63 @@ I enjoy working on:
 Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 ---
-
 # ⚡ TECH STACK
 
 <div align="center">
 
-### 💻 LANGUAGES
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
-
-<br><br>
-
-### ⚙️ BACKEND & FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=spring,react&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql&theme=dark" />
 
 <br><br>
 
-### 🗄️ DATABASES & DATA
+### `BACKEND & FRAMEWORKS`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=5" />
-
-<br><br>
-
-### ☁️ DEVOPS, CLOUD & TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vscode&perline=6" />
-
-<br><br>
-
-### 🤖 DATA SCIENCE & MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=python&perline=5" />
+<img src="https://skillicons.dev/icons?i=spring,react&theme=dark" />
 
 <br>
 
-**NumPy · Pandas · Matplotlib · Scikit-Learn · Streamlit**
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" />
 
 <br><br>
+
+### `DATABASES`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<br><br>
+
+### `DEVOPS & CLOUD`
+
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws&theme=dark" />
+
+<br><br>
+
+### `TOOLS & ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
+
+<br><br>
+
+### `DATA SCIENCE & ML`
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br>
+
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Streamlit`
+
+<br><br>
+
+### `BACKEND EXPERTISE`
+
+`REST APIs` · `JWT` · `Spring Security` · `JPA / Hibernate`
+`WebSockets` · `Flyway` · `OpenAPI / Swagger` · `RBAC`
+
+</div>
+
+---
+
 
 
 ---
