@@ -41,37 +41,40 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 <div align="center">
 
-## 💻 LANGUAGES
+### 💻 LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
-
-<br><br>
-
-## ⚙️ BACKEND & FRAMEWORKS
-
-<img src="https://skillicons.dev/icons?i=spring,react" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
 
 <br><br>
 
-## 🗄️ DATABASE & DATA
+### ⚙️ BACKEND & FRAMEWORKS
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<br><br>
-
-## 🛠️ DEVOPS & TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" />
+<img src="https://skillicons.dev/icons?i=spring,react&perline=5" />
 
 <br><br>
 
-## 🤖 DATA SCIENCE
+### 🗄️ DATABASES & DATA
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=5" />
+
+<br><br>
+
+### ☁️ DEVOPS, CLOUD & TOOLS
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vscode&perline=6" />
+
+<br><br>
+
+### 🤖 DATA SCIENCE & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python&perline=5" />
+
+<br>
 
 **NumPy · Pandas · Matplotlib · Scikit-Learn · Streamlit**
 
-</div>
+<br><br>
+
 
 ---
 
