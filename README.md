@@ -42,21 +42,21 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 <tr>
 <td width="50%" valign="top">
 
-### TECH STACK I'M COMFORTABLE WITH
+## LANGUAGES AND FRAMEWORKS
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,spring,react,hibernate&perline=6&theme=dark" />
+
 ## 🗄️ DATABASE & DATA
-<img src="https://skillicons.dev/icons?i=spring,react,hibernate,postgres,mysql,mongodb&perline=6&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,postman&perline=6&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws,git,vscode&perline=6&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" />
+
+
 
 <br>
 
-### WHAT I BUILD
 ## 🛠️ DEVOPS & TOOLS
-
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws,git,vscode&perline=6&theme=dark" />
 
 
 </td>
