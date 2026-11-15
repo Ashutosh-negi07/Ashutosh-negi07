@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ashutosh Singh Negi <img src="assets/7.gif" width="35"/>
+# Hi, I'm ASHUTOSH SINGH NEGI <img src="assets/7.gif" width="35"/>
 
 ### `SOFTWARE DEVELOPER` · `JAVA / SPRING BOOT` · `BACKEND ENGINEERING`
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 🧑‍💻 ABOUT ME
+# 🧑‍💻 ABOUT ME <img src="assets/2.gif" width="35"/>
 
 I'm a **Software Developer and MCA student** focused on building backend systems and full-stack applications using **Java, Spring Boot and PostgreSQL**.
 
@@ -72,8 +72,6 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 </table>
 
 ---
-
-
 
 ---
 
