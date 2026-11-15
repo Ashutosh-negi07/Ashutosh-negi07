@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ASHUTOSH SINGH NEGI
+# Hi there, I'm Ashutosh Singh Negi <img src="assets/7.gif" width="35"/>
 
 ### `SOFTWARE DEVELOPER` · `JAVA / SPRING BOOT` · `BACKEND ENGINEERING`
 
@@ -38,58 +38,38 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 ---
 # ⚡ TECH STACK
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `LANGUAGES`
+### TECH STACK I'M COMFORTABLE WITH
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql&theme=dark" />
-
-<br><br>
-
-### `BACKEND & FRAMEWORKS`
-
-<img src="https://skillicons.dev/icons?i=spring,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql&perline=6&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=spring,react,hibernate,postgres,mysql,mongodb&perline=6&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws,git,vscode&perline=6&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=postman&perline=6&theme=dark" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" />
+### WHAT I BUILD
 
-<br><br>
+* Web applications
+* Backend systems
+* Developer tools
+* Data-driven products
+* Experimental projects
 
-### `DATABASES`
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+<img src="assets/3.gif" width="100%"/>
 
-<br><br>
-
-### `DEVOPS & CLOUD`
-
-<img src="https://skillicons.dev/icons?i=docker,github,githubactions,aws&theme=dark" />
-
-<br><br>
-
-### `TOOLS & ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
-
-<br><br>
-
-### `DATA SCIENCE & ML`
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br>
-
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Streamlit`
-
-<br><br>
-
-### `BACKEND EXPERTISE`
-
-`REST APIs` · `JWT` · `Spring Security` · `JPA / Hibernate`
-`WebSockets` · `Flyway` · `OpenAPI / Swagger` · `RBAC`
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
