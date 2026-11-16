@@ -2,20 +2,6 @@
 
 # Hi, I'm ASHUTOSH SINGH NEGI <img src="assets/7.gif" width="35"/>
 
-### `SOFTWARE DEVELOPER` · `JAVA / SPRING BOOT` · `BACKEND ENGINEERING`
-
-**Building secure, scalable and production-ready applications.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/ashutosh-sn">
-<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:AshutoshSingh1907@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -34,9 +20,20 @@ I enjoy working on:
 * 🤖 Machine Learning applications
 
 Currently focused on becoming a stronger **SDE / Backend Java Developer**.
+<br>
+
+<a href="https://ashutoshsn.online">
+<img src="https://img.shields.io/badge/Portfolio-ashutoshsn.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-sn">
+<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:AshutoshSingh1907@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
-# ⚡ TECH STACK  <img src="assets/8.gif" width="35"/>
+# ⚡ TECH STACK  <img src="assets/8.gif" width="50"/>
 
 <table>
 <tr>
@@ -70,7 +67,7 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 ---
 
----
+
 
 # 🚀 SELECTED PROJECTS  <img src="assets/8.gif" width="35"/>
 
@@ -85,17 +82,8 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 A platform for discovering causes, managing goals and coordinating volunteer memberships.
 
-### `Java` `Spring Boot` `React` `PostgreSQL` `Docker`
+### <img src="https://skillicons.dev/icons?i=java,postgres,spring,react,docker,hibernate&perline=6&theme=dark" />
 
-* 🔐 JWT authentication & RBAC
-* 🛡️ BCrypt password hashing
-* 🚦 IP-based rate limiting
-* ⚡ PostgreSQL indexing & pagination
-* 🔄 Flyway database migrations
-* 📈 k6 load testing
-* 🚀 GitHub Actions CI/CD
-
-**25,700+ requests · 180 concurrent users · <44ms p95**
 
 <br>
 
@@ -113,18 +101,8 @@ A platform for discovering causes, managing goals and coordinating volunteer mem
 
 A role-based complaint management platform covering the complete lifecycle from complaint submission to resolution.
 
-### `Java` `Spring Boot` `Spring Security` `PostgreSQL`
+### <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,hibernate,githubactions&perline=6&theme=dark" />
 
-* 👨‍🎓 STUDENT
-* 👨‍💼 WARDEN
-* 🔧 WORKER
-* 👑 ADMIN
-* 🔐 JWT-based RBAC
-* 📸 Cloudinary image uploads
-* 📊 Analytics REST APIs
-* 🧪 k6 load testing
-
-**200+ concurrent users · <800ms p95 at peak**
 
 <br>
 
@@ -146,15 +124,13 @@ A role-based complaint management platform covering the complete lifecycle from 
 
 End-to-end ML application for predicting loan default risk using the German Credit dataset.
 
-### `Python` `Scikit-Learn` `Pandas` `Streamlit`
-
-* 🧹 Data preprocessing
-* 🔢 Feature encoding & scaling
-* 🤖 Logistic Regression
-* ⚖️ Class-balanced learning
-* 🎯 Decision threshold tuning
-* 🔄 Reproducible ML pipeline
-* 🌐 Streamlit prediction app
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
+  
+</p>
 
 <br>
 
@@ -172,18 +148,8 @@ End-to-end ML application for predicting loan default risk using the German Cred
 
 A production-ready REST API backend for a multi-tenant restaurant platform. Restaurant owners and staff manage restaurants, menus, tables and employees, while customers interact through QR-based table sessions.
 
-### `Java 21` `Spring Boot` `Spring Security` `PostgreSQL`
+### <img src="https://skillicons.dev/icons?i=java,postgres,spring,react,docker,hibernate&perline=6&theme=dark" />
 
-* 🏢 Multi-tenant restaurant architecture
-* 🔐 JWT authentication & role-based access control
-* 👥 Owner, employee & super-admin roles
-* 📱 Cryptographically secure QR table tokens
-* 🗄️ JPA / Hibernate & PostgreSQL
-* 🔄 Flyway database migrations
-* 📚 OpenAPI / Swagger documentation
-* ⚡ WebSocket foundation for real-time updates
-
-**Auth · Users · Restaurants · Tables · Employees implemented**
 
 <br>
 
@@ -213,77 +179,3 @@ A production-ready REST API backend for a multi-tenant restaurant platform. Rest
 </div>
 
 ---
-
-
-# 🧠 CURRENT FOCUS
-
-<div align="center">
-
-### `JAVA` → `SPRING BOOT` → `SECURITY` → `DATABASES` → `SYSTEM DESIGN`
-
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-Spring Security
-  ↓
-JPA / Hibernate
-  ↓
-PostgreSQL
-  ↓
-Docker + CI/CD
-```
-
-Building stronger foundations in:
-
-**System Design · Distributed Systems · Cloud · DevOps · Performance Engineering**
-
-<br>
-
-**Building. Testing. Optimizing. Learning.**
-
-</div>
-
----
-
-# 🎓 EDUCATION & CERTIFICATIONS
-
-🎓 **Master of Computer Applications** — SRM Institute of Science and Technology
-🎓 **Bachelor of Science** — DAV PG College, Dehradun
-
-**Certifications**
-
-* IIT Madras — Foundations in Programming and Data Science
-* EduSkills — DevOps and Cloud Automation
-* Coursera — Java Full Stack Development
-* AWS Academy — Cloud Foundations and Architecting
-
----
-
-# 🤝 LET'S CONNECT  <img src="assets/10.gif" width="35"/>
-
-<div align="center">
-
-
-<a href="https://www.linkedin.com/in/ashutosh-sn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:AshutoshSingh1907@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Open to opportunities, collaboration and interesting engineering problems.**
-
-</div>
