@@ -36,7 +36,7 @@ I enjoy working on:
 Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 ---
-# ⚡ TECH STACK
+# ⚡ TECH STACK  <img src="assets/8.gif" width="35"/>
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Currently focused on becoming a stronger **SDE / Backend Java Developer**.
 
 ---
 
-# 🚀 SELECTED PROJECTS
+# 🚀 SELECTED PROJECTS  <img src="assets/8.gif" width="35"/>
 
 <table>
 <tr>
@@ -263,7 +263,7 @@ Building stronger foundations in:
 
 ---
 
-# 🤝 LET'S CONNECT
+# 🤝 LET'S CONNECT  <img src="assets/10.gif" width="35"/>
 
 <div align="center">
 
