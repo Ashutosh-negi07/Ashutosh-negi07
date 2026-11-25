@@ -172,9 +172,8 @@ A production-ready REST API backend for a multi-tenant restaurant platform. Rest
 
 <img src="https://streak-stats.demolab.com/?user=Ashutosh-negi07&hide_border=true" height="170"/>
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-negi07&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
 
 </div>
 
